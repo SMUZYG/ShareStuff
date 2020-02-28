@@ -22,15 +22,19 @@
 
 *  由 [Yinggang Zheng](https://www.zhihu.com/people/ShareStuff) 创立，创立的初衷是方便大家学习 😄。
 
-* 欢迎您有问题上[语雀](https://www.yuque.com/sharestuff/bvm1rk)，[知乎](https://www.zhihu.com/people/ShareStuff)提问，也可以提交 issues 或者给我发邮件 ingopro@qq.com。
 
 ---
 
-## 重要提示
+## 提示
 
-* **重要提示**：ShareStuff 项目 **不接受** 任何非作者预约提交（pull requests）！
+* ShareStuff 项目 **不接受** 任何非作者预约提交（pull requests）！
 
-* **建议**：欢迎您有问题上[语雀](https://www.yuque.com/sharestuff/bvm1rk)，[知乎](https://www.zhihu.com/people/ShareStuff)提问。
+
+---
+## 建议
+* 欢迎您有问题上[语雀](https://www.yuque.com/sharestuff/bvm1rk)，[知乎](https://www.zhihu.com/people/ShareStuff)提问，也可以提交 issues 或者给我发邮件 ingopro@qq.com。
+
+* 欢迎一起交流，学习！在[语雀](https://www.yuque.com/sharestuff/mlu8i8)分享好文推荐，贡献您的力量。
 
 ---
 
@@ -69,6 +73,6 @@
 ---
 ## 协议
 
-本模板发布遵循公共许可证 1.3 c 或更高版本。如果是衍生作品，请务必加入协议声明。
+* 本模板发布遵循公共许可证 1.3 c 或更高版本。如果是衍生作品，请务必加入协议声明。
 
 ---

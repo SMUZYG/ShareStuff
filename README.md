@@ -27,7 +27,7 @@
 ---
 
 ## 重要提示
----
+
 * **重要提示**：ShareStuff 项目 **不接受** 任何非作者预约提交（pull requests）！
 
 * **建议**：欢迎您有问题上[语雀](https://www.yuque.com/sharestuff/bvm1rk)，[知乎](https://www.zhihu.com/people/ShareStuff)提问。
@@ -35,7 +35,7 @@
 ---
 
 ## 致谢
----
+
 * 首先感谢我的家人、朋友、老师和同学的帮助！
 * 此外，感谢匿名的朋友给予的支持和帮助！
 
@@ -44,7 +44,7 @@
 ---
 
 ## 捐赠
----
+
 * 如果您非常喜爱我的分享，你还可以选择捐赠以表达您对我的支持，非常感谢！
 
 ![Image](https://pic4.zhimg.com/80/v2-9b48b44fd57355ac1e233cc15a942dad_hd.png)
@@ -64,15 +64,11 @@
 | XXX  | XX RMB |   XXXX/XX/XX   | 微信 |
 
 ---
-
-## 协议
----
-本模板发布遵循项目公共许可证 1.3 c 或更高版本。如果是衍生作品，请务必加入协议声明。
-
----
-
 ## 友链
-
 + [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)：[Dongsheng Deng](https://ddswhu.me/) 开发并维护的基于 ElegantBook 模板。
+---
+## 协议
 
--------
+本模板发布遵循公共许可证 1.3 c 或更高版本。如果是衍生作品，请务必加入协议声明。
+
+---
